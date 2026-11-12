@@ -12,3 +12,4 @@ else
     echo "Bad IP!";
     exit 1;
 fi
+echo "sebi was here"
